@@ -12,7 +12,7 @@ Steps to run this code on your pc :
 ********* STEPS TO TRAIN YOUR OWN MODEL**********
 
 Directory Structure
-1. create a directory named Group_12.
+1. create a directory named "CODEEX"
 2. Put All the codes is "code.zip" folder to into Group_12.
 3. Create subdirectory Dataset as Group_12/Dataset.
 4. Create 28 empty folders , with each folder having the name of our gesture (these are for training purpose)
